@@ -115,8 +115,7 @@ function numeroMasGrande(numeros) {
     if(numeros[i] > mayor){
       mayor = numeros[i]
     }
-  }
-  return mayor
+  }return mayor 
 }
 
 
